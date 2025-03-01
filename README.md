@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1EqVD5OBZlHg_rhSgbKWRTnKlAxFoR4sO/view?usp=shari
 
 Open gitbash and type the following command:
 
-##### git clone "https://github.com/somya51p/SAFehER/"</b>
+##### git clone </b>
 
 *************************************************************
 Create virtual environment, Open Visual Studio code and type the following command in terminal:
