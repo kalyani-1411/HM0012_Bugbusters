@@ -33,12 +33,12 @@
 
 
 ## Video Link:
-https://youtu.be/S8VGYfEZrXU
+
 
 *****************************
 
 PPT Link:
-https://drive.google.com/file/d/1EqVD5OBZlHg_rhSgbKWRTnKlAxFoR4sO/view?usp=sharing
+
 
 ***************************************************************
 # How to Clone this repo
@@ -63,7 +63,7 @@ Followed by these commands in terminal itself:
 
 *************************************************************
 
-To run the SAFehER app then type:
+To run the PreggaMom app then type:
 
 ##### python manage.py runserver
 
@@ -78,7 +78,7 @@ Fill the required details and it would be created..
 
 **************************************************************
 
-# Enjoy using the SAFehER Web App..
+# Enjoy using the PreggaMom Web App..
 
 **************************************************************
 **************************************************************
