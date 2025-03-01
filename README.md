@@ -34,11 +34,13 @@
 
 ## Video Link:
 
+https://drive.google.com/drive/folders/1aj-avdeugkD5eOq7SFxGSO260AzcQajm?usp=drive_link
 
 *****************************
 
 PPT Link:
 
+https://drive.google.com/drive/folders/1aj-avdeugkD5eOq7SFxGSO260AzcQajm?usp=drive_link
 
 ***************************************************************
 # How to Clone this repo
